@@ -1,3 +1,5 @@
+package com.plgdhd;
+
 import com.plgdhd.CustomLinkedList;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
