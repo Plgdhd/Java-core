@@ -31,7 +31,7 @@ public class ApplicationContext {
 
                 }
                 catch (Exception e){
-                    throw new RuntimeException(e);
+                    e.printStackTrace();
                 }
             }
         }
